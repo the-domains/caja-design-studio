@@ -1,0 +1,28 @@
+name: 'CaJa Design Studio '
+favicon: null
+layout_spectrum: 0.44536237604916096
+typography_spectrum: 0.8247488129418343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1405311671551317
+  lightness: 0.7698389256838709
+  saturation: 0.18941108463332057
+  rhythmicContrast: 0.22629815503023565
+purpose: []
